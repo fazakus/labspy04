@@ -1,3 +1,12 @@
+print("=======================================")
+print("===\t Nama \t : Faza Ardan Kusuma \t===")
+print("===\t NIM \t : 312010001 \t\t\t===")
+print("===\t Kelas \t : T1.20.B1 \t\t\t===")
+print("=======================================")
+print()
+print("======\t | Tugas Praktikum 4 |\t ======")
+print()
+
 i = 0
 a_tugas = float(0.3)
 a_uts = float(0.35)
