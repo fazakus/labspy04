@@ -16,19 +16,19 @@ nim = []
 tugas = []
 uts = []
 uas = []
-total = []
+akhir = []
 
 
 while True :
-    s_nama = input("Nama :")
+    s_nama = input("Nama \t\t\t: ")
     nama.append(s_nama)
-    s_nim = int(input("NIM :"))
-    nim.append(s_nim)
-    i_tugas = int(input("Nilai Tugas :"))
+    i_nim = int(input("NIM \t\t\t: "))
+    nim.append(i_nim)
+    i_tugas = int(input("Nilai Tugas \t: "))
     tugas.append(i_tugas)
-    i_uts = int(input("Nilai UTS :"))
+    i_uts = int(input("Nilai UTS \t\t: "))
     uts.append(i_uts)
-    i_uas = int(input("Nilai UAS :"))
+    i_uas = int(input("Nilai UAS \t\t: "))
     uas.append(i_uas)
 
     akhir = (a_tugas * i_tugas) + (a_uts*i_uts) + (a_uas*i_uas)
@@ -41,9 +41,9 @@ while True :
     if ulang == "t" :
         break
 
-print("=================================Daftar Mahasiswa======================================")
-print("=======================================================================================")
-print("  No  |      Nama       |      NIM      |   Tugas   |    UTS   |   UAS   |   Akhir   | ")
-print("=======================================================================================")
+print("================================Daftar Mahasiswa=====================================")
+print("=====================================================================================")
+print("  No  |      Nama       |      NIM      |   Tugas   |   UTS   |   UAS   |   Akhir   | ")
+print("=====================================================================================")
 for n in range(i):
-    print("" ,n+1, "|\t" ,nama[n],"   |   ",nim[n],"  |   ",tugas[n],"    |   ",uts[n],"  |   ",uas[n],"    |   ",total[n],"  |")
+    print("" ,n+1, "   |     " ,nama[n],"      |  ",nim[n],"  |   ",tugas[n],"    |  ",uts[n],"   |   ",uas[n],"  |  ",total[n],"   |")
