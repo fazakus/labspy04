@@ -16,7 +16,7 @@ nim = []
 tugas = []
 uts = []
 uas = []
-akhir = []
+total = []
 
 
 while True :
@@ -32,7 +32,7 @@ while True :
     uas.append(i_uas)
 
     akhir = (a_tugas * i_tugas) + (a_uts*i_uts) + (a_uas*i_uas)
-    akhir.append(akhir)
+    total.append(akhir)
 
     ulang = ""
     while ulang!="y" and ulang!="t" :
