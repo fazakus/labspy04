@@ -11,7 +11,7 @@ Dan nanti outputnya seperti berikut <br>
 ![OutputTugas](Pic/tugasoutput.png)<br>
 
 Pertama - tama membuat flowchartnya terlebih dahulu<br>
-![Flowchart](Pic/flowchart.png)<br>
+![Flowchart](Pic/flowchartnew.png)<br>
 
 berikut adalah **source code** dari tugas 9
 ```python
@@ -145,8 +145,8 @@ Disini saya hanya memasukkan 2 data saja, bila ingin menambah data maka saat mun
 Sekian, Terima kasih
 
 **================================================================**<br>
-**=========================FAZA ARDAN KUSUMA=======================**<br>
-**=============================312010001===========================**<br>
-**==============================TA.20.B1===========================**<br>
-**============================TERIMA KASIH=========================**<br>
+**==========================FAZA ARDAN KUSUMA=======================**<br>
+**==============================312010001============================**<br>
+**===============================TA.20.B1============================**<br>
+**=============================TERIMA KASIH=========================**<br>
 **================================================================**
