@@ -32,7 +32,7 @@ while True :
     uas.append(i_uas)
 
     akhir = (a_tugas * i_tugas) + (a_uts*i_uts) + (a_uas*i_uas)
-    total.append(akhir)
+    akhir.append(akhir)
 
     ulang = ""
     while ulang!="y" and ulang!="t" :
